@@ -1,3 +1,3 @@
-# react-ts-8cvthu
+# Props from child to parent component
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-8cvthu)
+## [👉 Here](https://stackblitz.com/edit/react-ts-8cvthu)
