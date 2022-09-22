@@ -6,6 +6,7 @@ export default function Child(props) {
     <div>
       <h2>Child</h2>
       <button
+        // onClick={props.newTitle.bind(this, 'John')}
         onClick={(e) => {
           props.newTitle('John');
         }}
